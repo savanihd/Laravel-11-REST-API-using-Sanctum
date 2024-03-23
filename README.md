@@ -9,7 +9,7 @@
   - Step 6: Create Controller Files
   - Run Laravel 11 App
 
-![laravel-11-rest-api-sanctum-example](https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html)
+![laravel-11-rest-api-sanctum-example](https://www.itsolutionstuff.com/upload/laravel-11-sanctum-api.png)
 
  Run `php artisan serve` for a dev server. Navigate to `http://localhost:8000/`. The application will automatically reload if you change any of the source files.
 
