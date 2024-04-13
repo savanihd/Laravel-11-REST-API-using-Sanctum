@@ -13,6 +13,8 @@
 
  Run `php artisan serve` for a dev server. Navigate to `http://localhost:8000/`. The application will automatically reload if you change any of the source files.
 
+ Read Article: https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html
+
 
 For more examples, please visit:
 > [How to Create and User Trait in Laravel 11?](https://www.itsolutionstuff.com/post/how-to-create-and-use-trait-in-laravel-11example.html)
